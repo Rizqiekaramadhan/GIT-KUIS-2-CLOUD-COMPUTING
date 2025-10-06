@@ -10,7 +10,7 @@ print("4. git branch -M main → Menentukan branch utama bernama main")
 print("5. git remote add origin [URL GitHub] → Menghubungkan ke repository GitHub")
 print("6. git push -u origin main → Mengirim perubahan ke GitHub (upload)")
 
-print("\nKeterangan:")
+print("\nKeterangan: Halo Floren")
 print("- Git digunakan untuk mengelola versi dan perubahan kode secara lokal.")
 print("- GitHub digunakan untuk menyimpan repository Git secara online agar bisa diakses dan dikerjakan bersama.")
 
